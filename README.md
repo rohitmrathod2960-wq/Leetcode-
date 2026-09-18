@@ -6,6 +6,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0215-kth-largest-element-in-an-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [3731-find-missing-elements](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/3731-find-missing-elements) |
 ## Greedy
 |  |
 | ------- |
@@ -18,6 +19,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0215-kth-largest-element-in-an-array) |
+| [3731-find-missing-elements](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -26,4 +28,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0215-kth-largest-element-in-an-array) |
+## Hash Table
+|  |
+| ------- |
+| [3731-find-missing-elements](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/3731-find-missing-elements) |
 <!---LeetCode Topics End-->
