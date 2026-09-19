@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0215-kth-largest-element-in-an-array) |
+| [0485-max-consecutive-ones](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0485-max-consecutive-ones) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3731-find-missing-elements](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/3731-find-missing-elements) |
 ## Greedy
