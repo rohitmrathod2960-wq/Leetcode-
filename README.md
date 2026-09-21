@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0001-two-sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0485-max-consecutive-ones) |
@@ -34,6 +35,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0001-two-sum) |
 | [3731-find-missing-elements](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
