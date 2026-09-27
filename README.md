@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0001-two-sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0075-sort-colors](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0485-max-consecutive-ones) |
@@ -90,4 +91,8 @@
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/2149-rearrange-array-elements-by-sign) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
