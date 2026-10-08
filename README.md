@@ -18,6 +18,7 @@
 | [0169-majority-element](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0560-subarray-sum-equals-k) |
 | [0912-sort-an-array](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0912-sort-an-array) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -59,6 +60,7 @@
 | [0073-set-matrix-zeroes](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0169-majority-element) |
+| [0560-subarray-sum-equals-k](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0560-subarray-sum-equals-k) |
 | [3731-find-missing-elements](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
@@ -138,4 +140,8 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0048-rotate-image) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
