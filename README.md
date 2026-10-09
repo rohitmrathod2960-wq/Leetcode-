@@ -14,6 +14,7 @@
 | [0073-set-matrix-zeroes](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0169-majority-element) |
@@ -114,6 +115,7 @@
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## String
 |  |
