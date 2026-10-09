@@ -13,6 +13,7 @@
 | [0059-spiral-matrix-ii](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0075-sort-colors) |
+| [0118-pascals-triangle](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0169-majority-element) |
@@ -112,6 +113,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## String
 |  |
