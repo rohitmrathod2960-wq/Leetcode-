@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -40,6 +41,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0169-majority-element) |
@@ -88,6 +90,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0075-sort-colors) |
