@@ -28,6 +28,7 @@
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2553-separate-the-digits-in-an-array](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/2553-separate-the-digits-in-an-array) |
+| [3209-number-of-subarrays-with-and-value-of-k](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/3209-number-of-subarrays-with-and-value-of-k) |
 | [3731-find-missing-elements](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/3731-find-missing-elements) |
 ## Greedy
 |  |
@@ -72,6 +73,7 @@
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [3209-number-of-subarrays-with-and-value-of-k](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/3209-number-of-subarrays-with-and-value-of-k) |
 ## Merge Sort
 |  |
 | ------- |
@@ -154,4 +156,12 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0560-subarray-sum-equals-k) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3209-number-of-subarrays-with-and-value-of-k](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/3209-number-of-subarrays-with-and-value-of-k) |
+## Segment Tree
+|  |
+| ------- |
+| [3209-number-of-subarrays-with-and-value-of-k](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/3209-number-of-subarrays-with-and-value-of-k) |
 <!---LeetCode Topics End-->
