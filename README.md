@@ -12,6 +12,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0075-sort-colors) |
@@ -48,6 +49,7 @@
 | [0015-3sum](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0215-kth-largest-element-in-an-array) |
@@ -105,6 +107,7 @@
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0075-sort-colors) |
 ## Bubble Sort
 |  |
