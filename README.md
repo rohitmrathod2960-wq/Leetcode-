@@ -28,6 +28,7 @@
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
+| [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [2553-separate-the-digits-in-an-array](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/2553-separate-the-digits-in-an-array) |
 | [3209-number-of-subarrays-with-and-value-of-k](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/3209-number-of-subarrays-with-and-value-of-k) |
 | [3731-find-missing-elements](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/3731-find-missing-elements) |
@@ -154,6 +155,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0048-rotate-image) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
+| [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -170,4 +172,5 @@
 |  |
 | ------- |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
+| [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 <!---LeetCode Topics End-->
