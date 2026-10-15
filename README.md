@@ -32,6 +32,7 @@
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [2553-separate-the-digits-in-an-array](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/2553-separate-the-digits-in-an-array) |
+| [2965-find-missing-and-repeated-values](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/2965-find-missing-and-repeated-values) |
 | [3209-number-of-subarrays-with-and-value-of-k](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/3209-number-of-subarrays-with-and-value-of-k) |
 | [3731-find-missing-elements](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/3731-find-missing-elements) |
 ## Greedy
@@ -74,6 +75,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0560-subarray-sum-equals-k) |
+| [2965-find-missing-and-repeated-values](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/2965-find-missing-and-repeated-values) |
 | [3731-find-missing-elements](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
@@ -156,12 +158,14 @@
 | [0054-spiral-matrix](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0073-set-matrix-zeroes) |
+| [2965-find-missing-and-repeated-values](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/2965-find-missing-and-repeated-values) |
 ## Math
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0048-rotate-image) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
+| [2965-find-missing-and-repeated-values](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/2965-find-missing-and-repeated-values) |
 ## Prefix Sum
 |  |
 | ------- |
