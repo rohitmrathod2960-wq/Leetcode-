@@ -1,27 +1,41 @@
 class Solution {
 public:
     vector<int> findMissingAndRepeatedValues(vector<vector<int>>& grid) {
-        long long n = grid.size();
-        long long N = n * n;
-        long long SN = N * (N + 1) / 2;
-        long long S2N = N * (N + 1) * (2 * N + 1) / 6;
-        long long S = 0, S2 = 0;
+        int n = grid.size();
+        int N = n * n;
+        int xr = 0;
 
         for (int i = 0; i < n; i++) {
             for (int j = 0; j < n; j++) {
-                S += grid[i][j];
-                S2 += (long long)grid[i][j] * grid[i][j];
+                xr ^= grid[i][j];
             }
         }
+        for (int i = 1; i <= N; i++) {
+            xr ^= i;
+        }
+        int bit = xr & -xr;
+        int x = 0, y = 0;
 
-        long long val1 = S - SN;
-        long long val2 = S2 - S2N;
-
-        val2 = val2 / val1;
-
-        long long x = (val1 + val2) / 2;
-        long long y = x - val1;
-
-        return {(int)x, (int)y};
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < n; j++) {
+                if (grid[i][j] & bit)
+                    x ^= grid[i][j];
+                else
+                    y ^= grid[i][j];
+            }
+        }
+        for (int i = 1; i <= N; i++) {
+            if (i & bit)
+                x ^= i;
+            else
+                y ^= i;
+        }
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < n; j++) {
+                if (grid[i][j] == x)
+                    return {x, y};
+            }
+        }
+        return {y, x};
     }
 };
