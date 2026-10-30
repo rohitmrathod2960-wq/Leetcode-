@@ -25,6 +25,7 @@
 | [0162-find-peak-element](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0560-subarray-sum-equals-k) |
@@ -60,6 +61,7 @@
 | [0088-merge-sorted-array](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0268-missing-number) |
 | [0912-sort-an-array](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0912-sort-an-array) |
 | [3731-find-missing-elements](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
@@ -78,6 +80,7 @@
 | [0073-set-matrix-zeroes](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0560-subarray-sum-equals-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/2965-find-missing-and-repeated-values) |
 | [3731-find-missing-elements](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/3731-find-missing-elements) |
@@ -86,6 +89,7 @@
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0162-find-peak-element](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0268-missing-number) |
 | [0493-reverse-pairs](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0493-reverse-pairs) |
 | [3209-number-of-subarrays-with-and-value-of-k](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/3209-number-of-subarrays-with-and-value-of-k) |
 ## Merge Sort
@@ -171,6 +175,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0048-rotate-image) |
+| [0268-missing-number](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0268-missing-number) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/2965-find-missing-and-repeated-values) |
@@ -181,6 +186,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0268-missing-number) |
 | [3209-number-of-subarrays-with-and-value-of-k](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/3209-number-of-subarrays-with-and-value-of-k) |
 ## Segment Tree
 |  |
