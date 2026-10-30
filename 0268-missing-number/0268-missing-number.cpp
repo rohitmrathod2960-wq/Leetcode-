@@ -1,17 +1,14 @@
 class Solution {
 public:
     int missingNumber(vector<int>& nums) {
-        unordered_set<int> st;
         int n = nums.size();
+        long long sum = 1LL * n * (n + 1) / 2;
+
+        long long actualSum = 0;
 
         for(int x : nums) {
-            st.insert(x);
+            actualSum += x;
         }
-        for(int i = 0; i <= n; i++) {
-            if(st.find(i) == st.end()) {
-                return i;
-            }
-        }
-        return -1;
+        return sum - actualSum;
     }
 };
