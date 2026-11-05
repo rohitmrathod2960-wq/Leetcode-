@@ -40,6 +40,7 @@
 | [2965-find-missing-and-repeated-values](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/2965-find-missing-and-repeated-values) |
 | [3209-number-of-subarrays-with-and-value-of-k](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/3209-number-of-subarrays-with-and-value-of-k) |
 | [3731-find-missing-elements](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/3731-find-missing-elements) |
+| [3925-concatenate-array-with-reverse](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/3925-concatenate-array-with-reverse) |
 ## Greedy
 |  |
 | ------- |
@@ -144,6 +145,7 @@
 | [0059-spiral-matrix-ii](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/0059-spiral-matrix-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2553-separate-the-digits-in-an-array](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/2553-separate-the-digits-in-an-array) |
+| [3925-concatenate-array-with-reverse](https://github.com/rohitmrathod2960-wq/Leetcode-/tree/master/3925-concatenate-array-with-reverse) |
 ## Dynamic Programming
 |  |
 | ------- |
