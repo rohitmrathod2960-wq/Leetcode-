@@ -1,34 +1,32 @@
 class Solution {
 public:
     vector<int> rotateElements(vector<int>& nums, int k) {
-        vector<int> nonNeg;
+        int n = nums.size();
+        vector<int> indices;
 
-        for (int x : nums) {
-            if (x >= 0) {
-                nonNeg.push_back(x);
+        for (int i = 0; i < n; i++) {
+            if (nums[i] >= 0) {
+                indices.push_back(i);
             }
         }
 
-        int m = nonNeg.size();
+        int m = indices.size();
 
         if (m == 0)
             return nums;
 
         k %= m;
 
-        rotate(nonNeg.begin(),
-               nonNeg.begin() + k,
-               nonNeg.end());
+        vector<int> ans = nums;
 
-        int j = 0;
+        for (int i = 0; i < m; i++) {
 
-        for (int i = 0; i < nums.size(); i++) {
+            int originalIndex = indices[i];
 
-            if (nums[i] >= 0) {
-                nums[i] = nonNeg[j];
-                j++;
-            }
+            int rotatedIndex = (i + k) % m;
+
+            ans[originalIndex] = nums[indices[rotatedIndex]];
         }
-        return nums;
+        return ans;
     }
 };
