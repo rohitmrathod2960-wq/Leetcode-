@@ -1,32 +1,64 @@
 class Solution {
 public:
-    vector<int> rotateElements(vector<int>& nums, int k) {
+     void reverseNonNeg(vector<int>& nums,
+                       int left, int right) {
+
         int n = nums.size();
-        vector<int> indices;
+        int l = -1, r = -1;
+        int count = 0;
 
         for (int i = 0; i < n; i++) {
+
             if (nums[i] >= 0) {
-                indices.push_back(i);
+
+                if (count == left)
+                    l = i;
+
+                if (count == right) {
+                    r = i;
+                    break;
+                }
+                count++;
             }
         }
 
-        int m = indices.size();
+        while (l < r) {
+
+            swap(nums[l], nums[r]);
+            l++;
+            r--;
+
+            while (l < n && nums[l] < 0)
+                l++;
+
+            while (r >= 0 && nums[r] < 0)
+                r--;
+        }
+    }
+
+    vector<int> rotateElements(vector<int>& nums, int k) {
+
+        int m = 0;
+
+        for (int x : nums) {
+            if (x >= 0)
+                m++;
+        }
 
         if (m == 0)
             return nums;
 
         k %= m;
 
-        vector<int> ans = nums;
+        if (k == 0)
+            return nums;
 
-        for (int i = 0; i < m; i++) {
+        reverseNonNeg(nums, 0, k - 1);
 
-            int originalIndex = indices[i];
+        reverseNonNeg(nums, k, m - 1);
 
-            int rotatedIndex = (i + k) % m;
+        reverseNonNeg(nums, 0, m - 1);
 
-            ans[originalIndex] = nums[indices[rotatedIndex]];
-        }
-        return ans;
+        return nums;
     }
 };
